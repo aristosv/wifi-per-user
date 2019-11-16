@@ -8,4 +8,4 @@ Windows 10 Per User WiFi Connectivity
 
 This will disable explicit credentials and prevent users from creating network profiles for all users.
 
-![alt text](https://github.com/aristosv/sdshrink/blob/master/step01.png)
+![alt text](https://github.com/aristosv/wifi-per-user/blob/master/step01.png)
