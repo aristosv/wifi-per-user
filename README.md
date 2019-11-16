@@ -30,7 +30,7 @@ This will disable explicit credentials and prevent users from creating network p
 
 ![alt text](https://github.com/aristosv/wifi-per-user/blob/master/step06.png)
 
-07. And click "Clone"
+07. And click "Close"
 
 ![alt text](https://github.com/aristosv/wifi-per-user/blob/master/step07.png)
 
