@@ -29,3 +29,9 @@ This will disable explicit credentials and prevent users from creating network p
 06. Enter your WiFi network information and select "Save this network for me only"
 
 ![alt text](https://github.com/aristosv/wifi-per-user/blob/master/step06.png)
+
+07. And click "Clone"
+
+![alt text](https://github.com/aristosv/wifi-per-user/blob/master/step07.png)
+
+This way each user can set up their own WiFi connection.
