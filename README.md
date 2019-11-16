@@ -17,3 +17,15 @@ This will disable explicit credentials and prevent users from creating network p
 03. Then select "Network and Sharing Center"
 
 ![alt text](https://github.com/aristosv/wifi-per-user/blob/master/step03.png)
+
+04. Then select "Set up and new connection or network"
+
+![alt text](https://github.com/aristosv/wifi-per-user/blob/master/step04.png)
+
+05. Then select "Manually connect to a wireless network"
+
+![alt text](https://github.com/aristosv/wifi-per-user/blob/master/step05.png)
+
+06. Enter your WiFi network information and select "Save this network for me only"
+
+![alt text](https://github.com/aristosv/wifi-per-user/blob/master/step06.png)
