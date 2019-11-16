@@ -3,7 +3,7 @@ Windows 10 Per User WiFi Connectivity
 
 In my home we have a Windows 10 computer in the common area, to be used by my wife, children and I, each one with their own account. The issue is that I have 2 Wi-Fi networks. One for IoT devices and one for common usage. The latter can access printers, KODI players and has QoS enabled, so it’s more appropriate for daily usage. The IoT network has Home Assistant, Unifi Controller and ZoneMinder so it should only be accessed by me.
 
-The problem with Windows 10 is that when I connect on the IoT network, any other account that logs-in the computer is automatically connected to the IoT network also. So, I needed a way to separate each Wi-Fi network, per user. Follow the guide below to achieve them same.
+The problem with Windows 10 is that when I connect on the IoT network, any other account that logs-in the computer is automatically connected to the IoT network also. So, I needed a way to separate each Wi-Fi network, per user. Follow the guide below to achieve the same.
 
 01. Run the following 2 commands in a command prompt as an administrator.
 
