@@ -9,3 +9,11 @@ Windows 10 Per User WiFi Connectivity
 This will disable explicit credentials and prevent users from creating network profiles for all users.
 
 ![alt text](https://github.com/aristosv/wifi-per-user/blob/master/step01.png)
+
+02. Go to the Control Panel and select "Network and Internet"
+
+![alt text](https://github.com/aristosv/wifi-per-user/blob/master/step02.png)
+
+03. Then select "Network and Sharing Center"
+
+![alt text](https://github.com/aristosv/wifi-per-user/blob/master/step03.png)
